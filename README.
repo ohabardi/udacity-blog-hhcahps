@@ -1,0 +1,43 @@
+# 📊 What Drives Patient Recommendations in Home Health Care?
+
+This project is part of the **Udacity Data Scientist Nanodegree**, focused on data storytelling and insight generation using real-world health care survey data.
+
+## 🏥 Project Overview
+
+This analysis explores what factors influence whether patients **recommend a home health agency** based on data from the **Home Health Care Consumer Assessment of Healthcare Providers and Systems (HHCAHPS)**.
+
+Using the **CRISP-DM process**, I examined over 12,000 agencies in the U.S. to understand which aspects of care (communication, professionalism, safety, etc.) matter most to patients.
+
+## 🔍 Key Questions Explored
+
+1. **What factors are most strongly correlated with patient recommendation?**
+2. **Do survey response rate or number of surveys affect quality ratings?**
+3. **Which service area performs best across all agencies?**
+
+## 📈 Summary of Findings
+
+- **Overall patient rating and communication quality** were the strongest predictors of whether patients would recommend an agency.
+- The **number of completed surveys** had little to no impact on ratings.
+- **Professional care** received the highest average rating, while discussions around **medicines, pain, and safety** scored lower — revealing an area for improvement.
+
+## 🛠️ Tools & Techniques
+
+- Python (Pandas, Seaborn, Matplotlib)
+- Google Colab
+- CRISP-DM Methodology
+- Jupyter Notebook
+
+## 📁 Dataset
+
+Dataset source: [HHCAHPS Provider Data - April 2025](https://data.medicare.gov/Home-Health-Compare/HHCAHPS-Provider-April-2025/9nqk-veb7)
+
+## 📂 Files
+
+- `HHCAHPS_analysis.ipynb` – Main notebook with full analysis and visuals
+
+## ✍️ Author
+
+**Osamah Alotaibi**  
+Student in the Udacity Data Scientist Nanodegree  
+Passionate about data storytelling and real-world impact through insights.
+
